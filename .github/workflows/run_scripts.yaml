@@ -2,7 +2,7 @@ name: Random Song
 
 on: 
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0 17 * * *'  # 17:00 UTC is midnight ICT
 
 jobs:
   test-api:
