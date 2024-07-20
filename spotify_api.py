@@ -8,12 +8,12 @@ from bs4 import BeautifulSoup
 
 load_dotenv()
 env_path = '.env'
-md_path = 'song.md'
+md_path = 'README.md'
+current_song_path = 'current_song.txt'
 
 client_id = os.getenv("CLIENT_ID")
 client_secret = os.getenv("CLIENT_SECRET")
 playlist_id = os.getenv("PLAYLIST_ID")
-current_song_id = os.getenv("CURRENT_SONG_ID")
 
 start_comment = "<!-- Start random song -->"
 end_comment = "<!-- End random song -->"
@@ -38,17 +38,6 @@ def get_token():
 
 def get_auth_header(token):
     return {"Authorization": "Bearer " + token}
-
-
-def add_song_id_to_env(new_song_id):
-
-    env_values = dotenv_values()
-    env_values['CURRENT_SONG_ID'] = new_song_id
-
-    with open(env_path, 'w') as f:
-        for key, value in env_values.items():
-            f.write(f'{key}="{value}"\n')
-
 
 def add_song_to_readme(title, artist, img, link):
 
@@ -78,8 +67,15 @@ def add_song_to_readme(title, artist, img, link):
     with open(md_path, 'w', encoding='utf-8') as file:
         file.write(new_content)
 
-def random_songs_from_playlist():
+def get_current_song_id():
+    with open(current_song_path, 'r') as f:
+        return f.read()
     
+def add_current_song_id(song_id):
+    with open(current_song_path, 'w') as f:
+        f.write(song_id)
+
+def random_songs_from_playlist():
     token = get_token()
     url = f"https://api.spotify.com/v1/playlists/{playlist_id}/tracks"
     headers = get_auth_header(token)
@@ -87,10 +83,11 @@ def random_songs_from_playlist():
     result = get(url, headers=headers)
     tracks = result.json()['items']
 
+    current_song_id = get_current_song_id()
     available_tracks = [track for track in tracks if track["track"]["id"] != current_song_id]
     
     new_song = random.choice(available_tracks)["track"]
-    add_song_id_to_env(new_song["id"])
+    add_current_song_id(new_song["id"])
 
     title = new_song["name"]
     artist = new_song["artists"][0]["name"]

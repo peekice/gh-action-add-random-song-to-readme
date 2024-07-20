@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,13 +16,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Good Parts (when the quality is bad but I am)
+          Magnetic
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          LE SSERAFIM
+          ILLIT
          </span>
         </h3>
        </div>
