@@ -3,7 +3,6 @@ name: Random Song
 on: 
   schedule:
     - cron: '*/5 * * * *'
-  workflow_dispatch:
 
 jobs:
   test-api:
