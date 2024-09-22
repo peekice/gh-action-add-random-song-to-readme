@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,13 +16,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Good Parts (when the quality is bad but I am)
+          Hype Boy
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          LE SSERAFIM
+          NewJeans
          </span>
         </h3>
        </div>
