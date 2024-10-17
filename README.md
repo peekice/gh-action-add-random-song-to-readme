@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,7 +16,7 @@
         <h3>
          Song Title:
          <em id="title">
-          Ditto
+          Hype Boy
          </em>
         </h3>
         <h3>
