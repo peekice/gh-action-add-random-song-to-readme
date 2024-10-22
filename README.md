@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/52qof5uEYA0TV0EpR7jNxs" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,7 +16,7 @@
         <h3>
          Song Title:
          <em id="title">
-          Next Level
+          You
          </em>
         </h3>
         <h3>
