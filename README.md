@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273249dc66f0cb95bed7dacc39e" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273485623bc41b6760fc1bca2f4" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,7 +16,7 @@
         <h3>
          Song Title:
          <em id="title">
-          Smart
+          CRAZY
          </em>
         </h3>
         <h3>
