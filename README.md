@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273485623bc41b6760fc1bca2f4" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273bbcfc52e0e8f3cecfc91520f" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,13 +16,13 @@
         <h3>
          Song Title:
          <em id="title">
-          CRAZY
+          Illusion
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          LE SSERAFIM
+          aespa
          </span>
         </h3>
        </div>
