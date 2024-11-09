@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2739aaa57e6ba6ea9060e087ce7" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273b657fbb27b17e7bd4691c2b2" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,13 +16,13 @@
         <h3>
          Song Title:
          <em id="title">
-          plot twist
+          How Sweet
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          TWS
+          NewJeans
          </span>
         </h3>
        </div>
