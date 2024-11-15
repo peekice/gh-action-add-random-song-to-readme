@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273249dc66f0cb95bed7dacc39e" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,13 +16,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Smart
+          Love Me Like This
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          LE SSERAFIM
+          NMIXX
          </span>
         </h3>
        </div>
