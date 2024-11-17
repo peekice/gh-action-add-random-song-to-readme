@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/7zi7dD55ORKCGEjDNwSa1n" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b27315175a3af8eb08dbc8c77a31" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/3UKKwGrpWWamc0XNSKXjmz" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,13 +16,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Get Loud
+          YEPPI YEPPI
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          KISS OF LIFE
+          aespa
          </span>
         </h3>
        </div>
