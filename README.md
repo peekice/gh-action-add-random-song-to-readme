@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/60Uio68M57PwKEgZxSutL6" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273e467a8e8d7b0aa92d354aa75" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,7 +16,7 @@
         <h3>
          Song Title:
          <em id="title">
-          'Til We Meet Again
+          Whiplash
          </em>
         </h3>
         <h3>
