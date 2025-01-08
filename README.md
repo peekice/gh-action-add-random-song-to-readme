@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,13 +16,13 @@
         <h3>
          Song Title:
          <em id="title">
-          UNFORGIVEN (feat. Nile Rodgers)
+          ELEVEN
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          LE SSERAFIM
+          IVE
          </span>
         </h3>
        </div>
