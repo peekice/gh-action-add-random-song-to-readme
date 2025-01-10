@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/1x1oCGsFUDViOvcISuoKW0" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2730fc598038040859794c600e2" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/7dYEUpcXJLDcI22m0dgmnH" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273e467a8e8d7b0aa92d354aa75" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,7 +16,7 @@
         <h3>
          Song Title:
          <em id="title">
-          Live My Life
+          Kill It
          </em>
         </h3>
         <h3>
