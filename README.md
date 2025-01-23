@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2733bb056e3160b85ee86c1194d" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,13 +16,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Sugar Rush Ride
+          Savage
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          TOMORROW X TOGETHER
+          aespa
          </span>
         </h3>
        </div>
