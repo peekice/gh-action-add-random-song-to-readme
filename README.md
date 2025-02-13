@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/4u9cOL7R5OjAmlWkeEFXzf" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273e467a8e8d7b0aa92d354aa75" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,13 +16,13 @@
         <h3>
          Song Title:
          <em id="title">
-          OMG
+          Flowers
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          NewJeans
+          aespa
          </span>
         </h3>
        </div>
