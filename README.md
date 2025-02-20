@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/2uJEnyojuGg31VVlLTQFpp" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/7dYEUpcXJLDcI22m0dgmnH" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273e467a8e8d7b0aa92d354aa75" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,7 +16,7 @@
         <h3>
          Song Title:
          <em id="title">
-          Don't Blink
+          Kill It
          </em>
         </h3>
         <h3>
