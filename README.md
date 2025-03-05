@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/3UKKwGrpWWamc0XNSKXjmz" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273b64001fa6292caefc7605550" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,13 +16,13 @@
         <h3>
          Song Title:
          <em id="title">
-          YEPPI YEPPI
+          Bad Boy
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          aespa
+          Red Velvet
          </span>
         </h3>
        </div>
