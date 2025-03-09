@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,13 +16,13 @@
         <h3>
          Song Title:
          <em id="title">
-          LOVE DIVE
+          FREAK
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          IVE
+          YUQI
          </span>
         </h3>
        </div>
