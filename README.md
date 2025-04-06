@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/0bMoNdAnxNR0OuQbGDovrr" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/1ZPwN2BYeKssfv4avkzyKI" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273fc2fffae3025fbc540b98f34" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,13 +16,13 @@
         <h3>
          Song Title:
          <em id="title">
-          ANTIFRAGILE
+          Pimple
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          LE SSERAFIM
+          ILLIT
          </span>
         </h3>
        </div>
