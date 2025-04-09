@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/1aRyIsgzfUdSGAGz8zgFR2" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273e467a8e8d7b0aa92d354aa75" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,13 +16,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Flights, Not Feelings
+          After LIKE
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          aespa
+          IVE
          </span>
         </h3>
        </div>
