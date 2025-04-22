@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,13 +16,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Lucky Girl Syndrome
+          Psycho
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          ILLIT
+          Red Velvet
          </span>
         </h3>
        </div>
