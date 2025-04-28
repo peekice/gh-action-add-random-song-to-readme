@@ -5,8 +5,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/0u24lLekIGJ0CifIrHdD8N" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2730fc598038040859794c600e2" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -16,13 +16,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Long Chat (#♥)
+          I AM
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          aespa
+          IVE
          </span>
         </h3>
        </div>
